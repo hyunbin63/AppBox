@@ -1,6 +1,0 @@
-﻿  baskin.c
-C:\Users\Personal\OneDrive\바탕 화면\AppBox-main\AppBox\AppBox\baskin.c(5,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\Personal\OneDrive\바탕 화면\AppBox-main\AppBox\AppBox\baskin.c(26,13): warning C4098: 'baskin': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\Personal\OneDrive\바탕 화면\AppBox-main\AppBox\AppBox\baskin.c(45,13): warning C4098: 'baskin': 'void' 함수에서 값을 반환하고 있습니다.
-C:\Users\Personal\OneDrive\바탕 화면\AppBox-main\AppBox\AppBox\baskin.c(34,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  AppBox.vcxproj -> C:\Users\Personal\OneDrive\바탕 화면\AppBox-main\AppBox\x64\Debug\AppBox.exe
