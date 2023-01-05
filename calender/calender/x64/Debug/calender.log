@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\tjsdn\OneDrive\바탕 화면\calender\calender\소스.c(27,2): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\tjsdn\OneDrive\바탕 화면\calender\calender\소스.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  calender.vcxproj -> C:\Users\tjsdn\OneDrive\바탕 화면\calender\x64\Debug\calender.exe
