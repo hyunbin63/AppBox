@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\shnva\source\repos\Project4\Project4\소스.c(14,23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shnva\source\repos\Project4\Project4\소스.c(16,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shnva\source\repos\Project4\Project4\소스.c(18,20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project4.vcxproj -> C:\Users\shnva\source\repos\Project4\x64\Debug\Project4.exe
