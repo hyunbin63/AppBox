@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(Project1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  소스.c
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(110,2): warning C4013: 'delay700'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(212,3): warning C4013: 'delay1000'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(214,3): warning C4013: 'delay500'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(194,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(251,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(6,7): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(462): warning C4716: 'delay1000': 값을 반환해야 합니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(452): warning C4716: 'next': 값을 반환해야 합니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(457): warning C4716: 'delay700': 값을 반환해야 합니다.
+C:\Users\shnva\Desktop\AppBox-donghoon\Project1\Project1\소스.c(467): warning C4716: 'delay500': 값을 반환해야 합니다.
+  Project1.vcxproj -> C:\Users\shnva\Desktop\AppBox-donghoon\Project1\x64\Debug\MYS.exe
